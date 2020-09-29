@@ -1,3 +1,8 @@
+## How to switch hooks?
+
+This project tests the React.js hooks. This project tests the React.js hooks. To test the hook, delete the file along the path /srс/app.js, then move one of the hooks from the / testhooks folder to the place of the app.js file and rename the file with the hook to app.js.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
